@@ -43,7 +43,7 @@
     </td>
     <td>
     <a href= "https://travis-kleckley.netlify.app">
-    <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/current-portfolio.png?raw=true" />
+    <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/portfolio-screenshot2.png?raw=true" />
     <p>My current portfolio made with <br> HTML, CSS and Javascript</p></a>
     </td>
 </td></tr></table>
