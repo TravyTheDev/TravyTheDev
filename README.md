@@ -28,7 +28,6 @@
       <img width="300px" src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/recipe-screenshot3a.png?raw=true" />
       <p>Recipe sharing app made with <br> React, Node, Express and MongoDB</p></a>
     </td>
-    <td></td>
     <td>
       <a href ="https://github.com/TravyTheDev/gym-depot">
       <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/gym-depot-screenshot2.png?raw=true" />
@@ -37,8 +36,13 @@
     <tr>
     <td>
     <a href= "https://github.com/TravyTheDev/Cocktail-recipe-app">
-    <img width="300px"  src ="https://user-images.githubusercontent.com/105356729/169925847-1b2f532a-3f3e-458e-be38-56592ad52e0c.jpg" />
+    <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/cocktailscreenshot2.png?raw=true" />
     <p>Cocktail search app made with <br> HTML, CSS and Javascript</p></a>
+    </td>
+    <td>
+    <a href= "https://travis-kleckley.netlify.app">
+    <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/current-portfolio.png?raw=true" />
+    <p>My current portfolio made with <br> HTML, CSS and Javascript</p></a>
     </td>
 </td></tr></table>
 
