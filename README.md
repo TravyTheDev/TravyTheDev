@@ -28,7 +28,7 @@
     <td>
       <a href ="https://github.com/TravyTheDev/open-recipe"> 
       <img width="300px" src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/recipe-screenshot3a.png?raw=true" />
-      <p>Recipe sharing app made with <br> React, Node, Express and MongoDB</p></a>
+      <p>Recipe sharing social media app made with <br> React, Node, Express and MongoDB</p></a>
     </td>
     <td>
       <a href ="https://github.com/TravyTheDev/gym-depot">
