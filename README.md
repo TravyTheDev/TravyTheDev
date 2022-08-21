@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Travis</h1>
 <h3 align="center">I'm a full-stack software engineer living in Tokyo.</h3>
 <h4 align="center">日本語も大丈夫です。</h4>
-<h4 align="center">This might sound weird, a lot of people don't like JSX, but I like JSX and I like meeting new people and public speaking.</h4>
+<h4 align="center">This might sound weird, but I actually like public speaking.</h4>
 <h4 align="center">When I'm not coding I enjoy snowboarding, lifting weights, and chilling on the beach.</h4>
 
 - 👨‍💻 All of my projects are available at [https://travis-kleckley.netlify.app/](https://travis-kleckley.netlify.app/)
