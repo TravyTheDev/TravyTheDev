@@ -8,7 +8,7 @@
 <h4 align="center">This might sound weird, but I actually like public speaking.</h4>
 <h4 align="center">When I'm not coding I enjoy snowboarding, lifting weights, and chilling on the beach.</h4>
 
-- 👨‍💻 All of my projects are available at [https://travis-kleckley.netlify.app/](https://travis-kleckley.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://traviskleckley.com/](https://traviskleckley.com/)
 - ⚡ Fun fact: I can dunk... well in university I was able to dunk, but I can probably do it now because I believe in myself.
 
 
@@ -26,25 +26,25 @@
 <div align="center">
 <table><tr>
     <td>
-      <a href ="https://github.com/TravyTheDev/open-recipe"> 
-      <img width="300px" src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/recipe-screenshot3a.png?raw=true" />
-      <p>Recipe sharing social media app made with <br> React, Node, Express and MongoDB</p></a>
+      <a href ="https://github.com/TravyTheDev/multiplayer-game"> 
+      <img width="300px" src ="https://github.com/user-attachments/assets/04e55a0b-f6c1-4bc0-9b14-f5c5d93348e2" />
+      <p>An online multiplayer fighting game I'm working on made with Go and Ebitengine</p></a>
     </td>
     <td>
-      <a href ="https://github.com/TravyTheDev/gym-depot">
-      <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/gym-depot-screenshot2.png?raw=true" />
-      <p>E-commerce app made with <br> React, Node, Express and MongoDB</p></a>
+      <a href ="https://github.com/TravyTheDev/secret-chats">
+      <img width="300px"  src ="https://github.com/user-attachments/assets/7c47a823-06c8-42c8-a200-432d3702b4a7" />
+      <p>A chat application made with Vue (TypeScript) and Go</p></a>
     </td>
     <tr>
     <td>
-    <a href= "https://github.com/TravyTheDev/Cocktail-recipe-app">
-    <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/cocktailscreenshot2.png?raw=true" />
-    <p>Cocktail search app made with <br> HTML, CSS and Javascript</p></a>
+    <a href= "https://github.com/TravyTheDev/project-management-client">
+    <img width="300px"  src ="https://github.com/user-attachments/assets/9758039f-6c01-4d11-9ae4-7cf0dbd33fb6" />
+    <p>A live-collaboration project management desktop application and web API</p></a>
     </td>
     <td>
-    <a href= "https://travis-kleckley.netlify.app">
+    <a href= "https://traviskleckley.com">
     <img width="300px"  src ="https://github.com/TravyTheDev/TravyTheDev/blob/main/portfolio-screenshot2.png?raw=true" />
-    <p>My current portfolio made with <br> HTML, CSS and Javascript</p></a>
+    <p>My current site and and available products</p></a>
     </td>
 </td></tr></table>
 
