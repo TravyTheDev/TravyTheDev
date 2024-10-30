@@ -27,23 +27,23 @@
 <table><tr>
     <td>
       <a href ="https://github.com/TravyTheDev/multiplayer-game"> 
-      <img width="300px" src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/kick-him.gif" />
+      <img width="300px" src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/kick-him.gif?raw=true" />
       <p>An online multiplayer fighting game I'm working on made with Go and Ebitengine</p></a>
     </td>
     <td>
       <a href ="https://github.com/TravyTheDev/secret-chats">
-      <img width="300px"  src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/private-chats.gif" />
+      <img width="300px"  src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/private-chats.gif?raw=true" />
       <p>A chat application made with Vue (TypeScript) and Go</p></a>
     </td>
     <tr>
     <td>
     <a href= "https://github.com/TravyTheDev/project-management-client">
-    <img width="300px"  src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/live-edit.gif" />
+    <img width="300px"  src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/live-edit.gif?raw=true" />
     <p>A live-collaboration project management desktop application and web API</p></a>
     </td>
     <td>
     <a href= "https://traviskleckley.com">
-    <img width="300px"  src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/personal-site.gif" />
+    <img width="300px"  src ="https://github.com/TravyTheDev/personal-site/blob/main/public/images/personal-site.gif?raw=true" />
     <p>My current site and and available products</p></a>
     </td>
 </td></tr></table>
