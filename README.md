@@ -9,10 +9,10 @@
 <h4 align="center">When I'm not coding I enjoy snowboarding, lifting weights, and chilling on the beach.</h4>
 
 <h4 align="center">
-    - 👨‍💻 All of my projects are available at https://traviskleckley.com
+    All of my projects are available at https://traviskleckley.com
 </h4>
 <h4 align="center">
-     - ⚡ Fun fact: I can dunk... well in university I was able to dunk, but I can probably do it now because I believe in myself.
+    Fun fact: I can dunk... well in university I was able to dunk, but I can probably do it now because I believe in myself.
 </h4>
 
 <h3 align="center">Connect with me:</h3>
